@@ -1,7 +1,7 @@
 # photomaton
 Photomaton-like application for parties.
 
-The application show camera streams and is able to take series of three
+The application shows camera streams and is able to take series of three
 pictures with countdown.
 
 It is typically to be used in weddings, parties, and other fun place to have
@@ -33,7 +33,7 @@ To be able to survive a party, the application should not be shutdown, camera
 should not be changed... To achieve that, the application has some limitations
 such as clicking on cross/ALT-F4 do not quit the application.
 
-However application propose a set of cheat codes to performs some actions :
+However application propose a set of cheat codes to perform some actions :
 - Holds shift and type AK84: exit the application and remove dummy.dmy;
 - Holds shift and type AK85: reset timers / counters and remove dummy.dmy;
 - Holds shift and type AK86: use the next camera.
